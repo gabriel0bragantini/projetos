@@ -1,9 +1,9 @@
 media_p=[0, 0, 0, 0, 0]
+categorias=[0, 0, 0, 0, 0]
 resp1 = int(0)
 resp2 = int(0) 
 ADD=1
 media=0
-categorias=[0, 0, 0, 0, 0]
 while resp1 != 4:
 
     print('========================================================')
